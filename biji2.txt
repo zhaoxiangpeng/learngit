@@ -1,3 +1,0 @@
-﻿SSIS
-Git
-GitHub
